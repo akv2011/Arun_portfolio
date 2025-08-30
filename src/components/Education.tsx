@@ -16,7 +16,7 @@ function Education() {
                         <div className="education-details">
                             <h3>Bachelor of Engineering in Computer Science</h3>
                             <h4>Anna University Chennai, India</h4>
-                            <p className="education-period">May 2022 – Present</p>
+                            <p className="education-period">Apr 2021 – May 2025</p>
                             <p className="education-gpa">CGPA: 9.02/10</p>
                         </div>
                     </div>
